@@ -1,0 +1,15 @@
+<h2>Product List</h2>
+<div class="container">
+  <ul>
+    <li
+      *ngFor="let product of productsObs | async"
+      [ngStyle]="{ 'list-style-type': 'none' }"
+    >
+      <h3>Product Id: {{ product.productId }}</h3>
+      <h3>Name: {{ product.name }}</h3>
+      <h3>Brand: {{ product.brand }}</h3>
+      <h3>Category: {{ product.category }}</h3>
+      <h3>Price: {{ product.price | currency: "INR" }}</h3>
+    </li>
+  </ul>
+</div>

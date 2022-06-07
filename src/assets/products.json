@@ -1,0 +1,100 @@
+[
+  {
+    "productId": 1,
+    "name": "Earphones",
+    "brand": "Sony",
+    "category": "Gadgets",
+    "price": 899
+  },
+  {
+    "productId": 2,
+    "name": "Bravia",
+    "brand": "Sony",
+    "category": "Gadgets",
+    "price": 29000
+  },
+  {
+    "productId": 3,
+    "name": "Keyboard",
+    "brand": "Corsair",
+    "category": "Gadgets",
+    "price": 2899
+  },
+  {
+    "productId": 4,
+    "name": "A56",
+    "brand": "Samsung",
+    "category": "Mobile",
+    "price": 28999
+  },
+  {
+    "productId": 5,
+    "name": "Rog 5",
+    "brand": "Asus",
+    "category": "Mobile",
+    "price": 58999
+  },
+  {
+    "productId": 6,
+    "name": "Rog 3",
+    "brand": "Asus",
+    "category": "Mobile",
+    "price": 39999
+  },
+  {
+    "productId": 7,
+    "name": "Toy Train",
+    "brand": "Hamleys",
+    "category": "Toys",
+    "price": 999
+  },
+  {
+    "productId": 8,
+    "name": "Toy Gun",
+    "brand": "Hamleys",
+    "category": "Toys",
+    "price": 599
+  },
+  {
+    "productId": 9,
+    "name": "Trimmer",
+    "brand": "Philips",
+    "category": "Appliances",
+    "price": 1299
+  },
+  {
+    "productId": 10,
+    "name": "Washing Machine",
+    "brand": "Whirphool",
+    "category": "Appliances",
+    "price": 18599
+  },
+  {
+    "productId": 11,
+    "name": "AC",
+    "brand": "Whirphool",
+    "category": "Appliances",
+    "price": 39599
+  },
+  {
+    "productId": 12,
+    "name": "Sneakers",
+    "brand": "Jordan",
+    "category": "Shoes",
+    "price": 45999
+  },
+  {
+    "productId": 13,
+    "name": "Elvi Customed",
+    "brand": "Elvi",
+    "category": "Shoes",
+    "price": 89599
+  },
+  {
+    "productId": 14,
+    "name": "Air Jordan",
+    "brand": "Jordan",
+    "category": "Shoes",
+    "price": 69999
+  }
+]
